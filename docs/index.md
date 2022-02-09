@@ -1,22 +1,14 @@
 ## Summary
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the software you propose to develop in this project.
+This application will put individuals in connection with clubs in their schools and city. Using users and systems similar to LinkedIn, people can view profiles of individuals and their interests/acheivements. Furthermore, this will allow clubs themselves to find members for recruitment into clubs. This is intended to give direct connection between clubs and prospective members.
 
 ## Intended users
 
-Write a bullet list here, including at least 2 different types of intended users. Make it reasonably specific; simply saying "Anyone who likes games" (for example) is not sufficiently specific.
 
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user performs using the app, and the benefit that will be obtained. The simplest user stories take the form 
+* As a highschool who enjoys extracurricular activities, I want an application that makes it easy to find clubs interested in the same things as me; in school or otherwise.
 
-> As a <type of intended user (_who_)> I want to <use of feature or functionality (_what_)> so that <benefit (_why_).
+* As a young adult I'm looking for a place to stay connected to my hobbies with an application that allows solid communication with those who have similar interests.
 
-Please avoid writing too much for the user story. In particular, if the way the user story is written makes it difficult to see the _who_, _what_, and _why_, then you probably need to re-write it more directly. (On the other hand, a user story should not simply be a re-statement of the intended user description.)
-
-Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
-
-* People who like to use randomness in their decision making.
-
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
 
 ## Client component
 

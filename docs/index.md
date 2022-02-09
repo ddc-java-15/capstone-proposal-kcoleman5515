@@ -1,6 +1,6 @@
 ## Summary
 
-This application will put individuals in connection with clubs in their schools and city. Using users and systems similar to LinkedIn, people can view profiles of individuals and their interests/acheivements. Furthermore, this will allow clubs themselves to find members for recruitment into clubs. This is intended to give direct connection between clubs and prospective members.
+This application will put individuals in connection with clubs in their communities. Using users and systems similar to LinkedIn, people can view profiles of individuals and their interests/acheivements. Furthermore, this will allow clubs themselves to find members for recruitment into clubs. This is intended to give direct connection between clubs and prospective members.
 
 ## Intended users
 

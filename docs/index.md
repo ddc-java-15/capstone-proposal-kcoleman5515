@@ -4,21 +4,28 @@ This application will put individuals in connection with clubs in their communit
 
 ## Intended users
 
+* A freshman high school student who enjoys extracurricular activities.
 
-* As a freshman high school student who enjoys extracurricular activities, I want an application that makes it easy to find clubs interested in the same things as me; in school or otherwise.
+    > As a  high school student, I want an application that makes it easy to find clubs interested in the same things as me; in school or otherwise.
 
-* As a young adult I'm looking for an application that helps me stay connected to my hobbies and that allows solid communication with those who have similar interests.
+* A young adult who desires a place to explore their hobbies.
+
+    > As a young adult who doesn't attend an institution, I'm looking for an application that helps me stay connected to my hobbies and that allows solid communication with those who have similar interests.
 
 
 ## Client component
 
 ### Functionality
 
-* Connect with individuals in similar interest groups
-* Create self-made clubs
-* Create events that are online or in person
-* Edit personal information
-* Message members inside groups and events
+1. Connect with individuals in similar interest groups 
+
+2. Create self-made clubs
+
+3. Create events that are online or in person
+
+4. Edit personal information
+
+5. Message members inside groups and events
 
 ### Persistent data
 
